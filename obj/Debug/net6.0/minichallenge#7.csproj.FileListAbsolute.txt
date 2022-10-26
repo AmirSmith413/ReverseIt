@@ -1,0 +1,15 @@
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\AmirReverseIt\ReverseIt\bin\Debug\net6.0\minichallenge#7.exe
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\AmirReverseIt\ReverseIt\bin\Debug\net6.0\minichallenge#7.deps.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\AmirReverseIt\ReverseIt\bin\Debug\net6.0\minichallenge#7.runtimeconfig.json
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\AmirReverseIt\ReverseIt\bin\Debug\net6.0\minichallenge#7.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\AmirReverseIt\ReverseIt\bin\Debug\net6.0\minichallenge#7.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\AmirReverseIt\ReverseIt\obj\Debug\net6.0\minichallenge#7.csproj.AssemblyReference.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\AmirReverseIt\ReverseIt\obj\Debug\net6.0\minichallenge#7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\AmirReverseIt\ReverseIt\obj\Debug\net6.0\minichallenge#7.AssemblyInfoInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\AmirReverseIt\ReverseIt\obj\Debug\net6.0\minichallenge#7.AssemblyInfo.cs
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\AmirReverseIt\ReverseIt\obj\Debug\net6.0\minichallenge#7.csproj.CoreCompileInputs.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\AmirReverseIt\ReverseIt\obj\Debug\net6.0\minichallenge#7.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\AmirReverseIt\ReverseIt\obj\Debug\net6.0\refint\minichallenge#7.dll
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\AmirReverseIt\ReverseIt\obj\Debug\net6.0\minichallenge#7.pdb
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\AmirReverseIt\ReverseIt\obj\Debug\net6.0\minichallenge#7.genruntimeconfig.cache
+C:\Users\zac22\Documents\~Programming\Level1\program_Stuff\GithubPeerReviews\AmirReverseIt\ReverseIt\obj\Debug\net6.0\ref\minichallenge#7.dll
